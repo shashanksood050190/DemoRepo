@@ -1,0 +1,10 @@
+package com.qa.pages;
+
+public class LoginPage {
+	
+	private void loginPage() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
